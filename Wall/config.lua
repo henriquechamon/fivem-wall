@@ -16,8 +16,8 @@ Config.license_key = "cfxk_1JaU83mt2KMwC0dvndTSD_2rJ3uQ" -- key fivem n obrigada
 --WEBHOOK
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Config.webhookwall = "https://discord.com/api/webhooks/1062874307052720128/A3Pfaa_6jvruakch6t4LxyNBw8W1xiiVCayCYjYtmLzesx-Vdm11h2kHPKUlTupvl-sR" -- Webhook Discord para enviar log do wall
-Config.webhooklines = "https://discord.com/api/webhooks/1062874307052720128/A3Pfaa_6jvruakch6t4LxyNBw8W1xiiVCayCYjYtmLzesx-Vdm11h2kHPKUlTupvl-sR" -- Webhook Discord para enviar log das linhas
+Config.webhookwall = "" -- Webhook Discord para enviar log do wall
+Config.webhooklines = "" -- Webhook Discord para enviar log das linhas
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 -- ESP
